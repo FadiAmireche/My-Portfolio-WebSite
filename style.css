@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.col{
+    height: 290px;
+}
+
+.trait {
+
+    font-size: 20px;
+    font-weight: 1000;
+    color: crimson
+}
